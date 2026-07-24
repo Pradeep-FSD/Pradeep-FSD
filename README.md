@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Pradeep Prajapati
 
-<!--
-**Pradeep-FSD/Pradeep-FSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+💻 2 Years Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Express
+- FastAPI
+- Python
+- MongoDB
+- MySQL
+- Redis
+- Docker
+
+🌱 Currently Learning
+
+- AI
+- RAG
+- LangChain
+- System Design
+
+📫 Contact
+
+Email: example@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/
