@@ -112,6 +112,6 @@ Shree L.R. Tiwari College of Engineering, Mumbai — CGPA: 7.75/10 *(Aug 2020 �
 
 ### 📫 Let's Connect
 
-📧 **pradeepprajapati523@gmail.com** &nbsp;|&nbsp; 📱 **9768877048** &nbsp;|&nbsp; 📍 Malad, Mumbai (Open to Relocate)
+📧 **pradeepprajapati523@gmail.com** &nbsp;|&nbsp; 📍 Malad, Mumbai (Open to Relocate)
 
 <p align="center"><i>⭐️ Open to Software Developer / Full Stack Developer roles — let's build something great together!</i></p>
