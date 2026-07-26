@@ -86,7 +86,6 @@
 | **Corporate & Institute LMS with AI RAG** | Full-stack LMS with JWT/RBAC, course & batch management, AI-powered question generation, AI tutor assistant, and a shared RAG microservice processing PDFs, images, OCR, audio & video | FastAPI, Next.js, MongoDB, Gemini, Pinecone, Deepgram Nova |
 | **Employee Management System** | Console-based Java app using OOP & Java Collections Framework for employee record CRUD, salary-based filtering, and HR reporting | Java, Core Java, Collections Framework |
 
-> 📌 *Pin these repos on your GitHub profile so they show up right below this README.*
 
 ---
 
